@@ -82,21 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application-test.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application-test.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/actuator/src/main/resources/application-test.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
               <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/actuator/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -427,7 +417,7 @@
       <option name="presentableId" value="Default" />
       <updated>1528868777494</updated>
       <workItem from="1528868780438" duration="1978000" />
-      <workItem from="1528880084065" duration="3688000" />
+      <workItem from="1528880084065" duration="3917000" />
     </task>
     <servers />
   </component>
@@ -440,7 +430,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5666000" />
+    <option name="totallyTimeSpent" value="5895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
