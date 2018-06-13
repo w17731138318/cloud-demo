@@ -2,3 +2,4 @@
 /actuator/.mvn
 /actuator/*
 /actuator/*.cmd
+/.idea
