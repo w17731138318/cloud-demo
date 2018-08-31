@@ -7,4 +7,7 @@ bankdemo/mvnw
 bankdemo/mvnw.cmd
 bankdemo/*.iml
 .idea
-
+dubbo-service/.mvn/
+dubbo-service/mvnw
+dubbo-service/mvnw.cmd
+dubbo-service/*.iml
