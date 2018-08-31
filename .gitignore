@@ -6,4 +6,5 @@ bankdemo/.mvn/
 bankdemo/mvnw
 bankdemo/mvnw.cmd
 bankdemo/*.iml
+.idea
 
