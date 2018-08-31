@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="actuator" />
+        <module name="bankdemo" />
+        <module name="dubbo-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="actuator" target="1.8" />
+      <module name="bankdemo" target="1.8" />
+      <module name="dubbo-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

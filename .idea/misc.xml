@@ -18,6 +18,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/bankdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-service/pom.xml" />
       </list>
     </option>
   </component>

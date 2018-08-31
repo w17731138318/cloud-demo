@@ -2,6 +2,8 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bankdemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-service" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
