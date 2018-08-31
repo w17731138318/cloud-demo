@@ -1,5 +1,9 @@
-/actuator/*.iml
-/actuator/.mvn
-/actuator/*
-/actuator/*.cmd
-/.idea
+actuator/*.iml
+actuator/.mvn
+actuator/*
+actuator/*.cmd
+bankdemo/.mvn/
+bankdemo/mvnw
+bankdemo/mvnw.cmd
+bankdemo/*.iml
+
