@@ -11,3 +11,4 @@ dubbo-service/.mvn/
 dubbo-service/mvnw
 dubbo-service/mvnw.cmd
 dubbo-service/*.iml
+/.idea
