@@ -36,9 +36,12 @@ public class ClientController {
 	@GetMapping("/test")
 	public String test(HttpServletRequest request) {
 		Cookie[] cookies = request.getCookies();
-		Arrays.stream(cookies).forEach(e -> {
-			log.info("cookie={}", e.getName() + ":" + e.getValue());
-		});
+		if (cookies != null) {
+			Arrays.stream(cookies).forEach(e -> {
+				log.info("cookie={}", e.getName() + ":" + e.getValue());
+			});
+		}
+
 
 		/**
 		 * 方式一
